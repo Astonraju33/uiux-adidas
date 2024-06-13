@@ -116,27 +116,27 @@
 
 
 .col6{
-   background-image: url('../bootstrap_works/photos/adidas\ model\ 1.jpg');
+   background-image: url('./photos/adidas\ model\ 1.jpg');
    background-size: cover;
    transition: .2s ease-in-out ;
 }
 .col7{
-   background-image: url('../bootstrap_works/photos/adidas\ model\ 2.jpg');
+   background-image: url('./photos/adidas\ model\ 2.jpg');
    background-size: cover;
    transition: .2s ease-in-out ;
 }
 .col8{
-   background-image: url('../bootstrap_works/photos/adidas\ model\ 3.jpg');
+   background-image: url('./photos/adidas\ model\ 3.jpg');
    background-size: cover;
    transition: .2s ease-in-out;
 }
 .col9{
-   background-image: url('../bootstrap_works/photos/adidas\ model\ 4.jpg');
+   background-image: url('./photos/adidas\ model\ 4.jpg');
    background-size: cover;
    transition: .2s ease-in-out ;
 }
 .col10{
-   background-image: url('../bootstrap_works/photos/adidas\ model\ 5.jpeg');
+   background-image: url('./photos/adidas\ model\ 5.jpeg');
    background-size: cover;
    transition: .2s ease-in-out ;
 }
